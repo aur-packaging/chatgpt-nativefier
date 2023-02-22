@@ -1,10 +1,4 @@
-# aur-template
-A very simple bin packaging template is in this repo.
+# PKG name goes here
+Arch package of [reponame](https://github.com/user/repo)
 
-### Usage
-
-```bash
-$ makepkg --printsrcinfo > .SRCINFO
-$ makepkg -sri .
-```
-
+Can be found [on aur](https://aur.archlinux.org/packages/someaurrepo) on AUR.
